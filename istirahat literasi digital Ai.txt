@@ -1,0 +1,129 @@
+Berikut adalah 50 Istilah Literasi Digital Akademik yang sangat erat hubungannya dengan proses penyusunan buku dan publikasi jurnal ilmiah:
+
+penulis: Sri Widiyanti Rudini 
+
+kategori:Literasi Digital Dan Kecerdasan Buatan Ai
+
+
+
+                               PENDAHULUAN
+
+Di era transformasi digital saat ini, penguasaan literasi digital bukan lagi sekadar kemampuan teknis dasar dalam menggunakan perangkat teknologi, melainkan fondasi utama dalam dunia akademik dan intelektual. Bagi seorang akademisi, mahasiswa, peneliti, maupun penulis, kemampuan untuk memahami, mengevaluasi, dan memanfaatkan informasi digital secara efektif sangat menentukan kualitas karya ilmiah yang dihasilkan, baik berupa buku referensi maupun artikel jurnal.
+
+
+
+A. Penelusuran & Manajemen Referensi (Literature Search & Reference Management)
+
+Academic Search Engine: Mesin pencari khusus literatur ilmiah (contoh: Google Scholar, Microsoft Academic).
+
+Boolean Operators: Operator logika (AND, OR, NOT) yang digunakan untuk menyaring dan mempertajam hasil pencarian literatur.
+
+Citation Metric: Ukuran kuantitatif dampak atau pengaruh artikel/peneliti berdasarkan jumlah sitasi yang diterima.
+
+DOI (Digital Object Identifier): Kode unik permanen yang disematkan pada dokumen digital agar selalu dapat dilacak secara online.
+
+EndNote: Perangkat lunak manajer referensi komersial untuk mengelola daftar pustaka.
+
+Grey Literature: Literatur yang diterbitkan di luar saluran penerbitan akademik formal (misalnya laporan teknis, tesis yang tidak dipublikasikan, dokumen kebijakan).
+
+Impact Factor (IF): Ukuran frekuensi rata-rata sitasi artikel dalam jurnal tertentu selama periode dua tahun sebelumnya.
+
+ Mendeley: Perangkat lunak manajemen referensi gratis berbasis web dan desktop yang populer di kalangan akademisi.
+
+Metadata: Data terstruktur yang mendeskripsikan karakteristik suatu dokumen digital (seperti nama penulis, judul, abstrak, dan kata kunci).
+
+Open Access (OA): Model publikasi yang memberikan akses terbuka bebas biaya kepada pembaca di seluruh dunia.
+
+Persistent Identifier (PID): Referensi unik jangka panjang untuk dokumen digital atau peneliti (seperti DOI atau ORCID).
+
+Reference Manager: Perangkat lunak digital untuk mengorganisasi, menyimpan, dan menghasilkan sitasi secara otomatis.
+
+Repositroy (Repositori Institusi): Basis data digital universitas atau lembaga untuk menyimpan dan menyebarluaskan hasil karya ilmiah civitas akademika.
+
+Scopus ID / ResearcherID: Nomor identifikasi unik bagi seorang penulis atau peneliti di dalam database indeksasi global.
+
+Zotero: Perangkat lunak manajemen referensi sumber terbuka (open-source) untuk mengumpulkan dan mengatur riset.
+
+B. Penulisan, Format, & Kolaborasi Naskah (Drafting & Collaboration)
+
+Cloud Storage: Media penyimpanan berbasis awan (seperti Google Drive, OneDrive) untuk mencadangkan draf naskah.
+
+Collaborative Writing Platform: Platform daring yang memungkinkan beberapa penulis menyunting naskah secara bersamaan secara real-time (contoh: Google Docs, Overleaf untuk LaTeX).
+
+Digital Manuscript: Naskah buku atau jurnal yang disusun, diedit, dan dikirimkan dalam format digital.
+
+ Formatting Tool: Fitur atau perangkat lunak otomatis untuk menyelaraskan naskah dengan gaya selingkung (author guidelines) jurnal atau penerbit buku.
+
+LaTeX: Sistem penyiapan dokumen berbasis markup yang banyak digunakan untuk penulisan naskah ilmiah bermuatan rumus matematika kompleks.
+
+ Markdown: Bahasa markup ringan yang sering digunakan untuk menulis teks berformat sebelum dikonversi ke format dokumen lain.
+
+PDF (Portable Document Format): Format file standar universal untuk mengunci tata letak naskah agar siap cetak atau dibagikan secara digital.
+
+Real-time Editing: Fitur penyuntingan dokumen langsung secara daring dengan kolaborator lain.
+
+Template Naskah: Kerangka dokumen digital yang disediakan penerbit atau jurnal untuk memastikan keseragaman format penulisan.
+
+Version Control: Sistem pencatatan riwayat perubahan revisi dokumen digital untuk menghindari hilangnya data naskah.
+
+C. Integritas Akademik & Etika Publikasi (Academic Integrity & Ethics)
+
+Anti-Plagiarism Software: Perangkat lunak untuk mendeteksi tingkat kemiripan teks dengan sumber lain (contoh: Turnitin, iThenticate).
+
+Copyright: Hak cipta hukum yang melindungi ekspresi ide penulis dalam buku atau jurnal.
+
+Creative Commons (CC): Lisensi hak cipta digital yang fleksibel untuk membagikan karya ilmiah dengan ketentuan tertentu.
+
+Ethical Clearance: Surat keterangan kelaikan etik riset digital atau lapangan yang sering menjadi syarat publikasi jurnal kesehatan/sosial.
+
+Ghostwriting: Praktik tidak etis di mana kontributor utama tidak dicantumkan namanya dalam publikasi.
+
+Integritas Akademik: Nilai kejujuran dan pertanggungjawaban dalam proses penelitian dan penulisan ilmiah.
+
+Journals Retraction: Pencabutan resmi artikel jurnal yang telah terbit akibat pelanggaran etika, data palsu, atau plagiarisme berat.
+
+Peer Review (Mitra Bestari): Proses peninjauan naskah secara digital oleh pakar sejawat sebelum naskah disetujui untuk diterbitkan.
+
+Predatory Journal: Jurnal ilmiah palsu/meragukan yang mengejar keuntungan finansial tanpa proses peninjauan mutu (peer review) yang memadai.
+
+Self-Plagiarism: Plagiarisme diri sendiri, yaknimenggunakan kembali karya atau tulisan sendiri yang telah dipublikasikan tanpa sitasi yang benar.
+
+D. Publikasi, Indeksasi, & Open Science (Publishing & Open Science)
+
+Article Processing Charge (APC): Biaya pemrosesan artikel yang dibayarkan penulis kepada penerbit Open Access.
+
+ Author Guidelines: Panduan teknis digital bagi penulis untuk menyiapkan naskah sesuai standar jurnal/buku tertentu.
+
+ Blind Review (Single/Double): Sistem penelaahan  naskah secara anonim (penulis tidak tahu reviewer, atau keduanya saling anonim) melalui sistem OJS.
+
+Book Chapter: Bagian atau bab tertentu dalam sebuah buku ilmiah yang ditulis oleh penulis khusus di bawah editor utama.
+
+Data Sharing: Praktik membagikan data mentah penelitian secara digital untuk mendukung transparansi sains (Open Science).
+
+ Digital Publishing: Proses penerbitan buku atau jurnal dalam format digital (e-book, e-journal).
+
+h-index: Metrik yang mengukur produktivitas dan dampak sitasi dari publikasi seorang peneliti.
+
+ Indexation Database: Basis data pengindeks global yang menilai kredibilitas jurnal (seperti Scopus, SINTA, Web of Science, DOAJ).
+
+Open Journal Systems (OJS): Platform manajemen dan penerbitan jurnal ilmiah berbasis web sumber terbuka (open-source).
+
+Preprint: Versi awal naskah ilmiah yang diunggah ke server publik (seperti arXiv atau INA-Rxiv) sebelum melalui proses peer review resmi.
+
+E. Diseminasi, Metrik, & Visibilitas Riset (Dissemination & Visibilit
+
+ Altmetrics: Metrik alternatif yang mengukur dampak riset berdasarkan penyebutan di media sosial, berita, blog, dan policy document.
+
+Academic Social Network: Platform jejaring sosial khusus peneliti untuk membagikan karya dan berkolaborasi (contoh: ResearchGate, Academia.edu).
+
+ Diseminasi Digital: Penyebarluasan hasil riset secara online untuk memperluas jangkauan pembaca dan sitasi.
+
+ 
+
+ORCID (Open Researcher and Contributor ID): Kode digital unik yang membedakan seorang peneliti dengan peneliti lain secara global.
+
+Visibilitas Online: Tingkat kemudahan suatu karya ilmiah (buku/jurnal) ditemukan, diakses, dan dibaca oleh komunitas ilmiah global di internet.
+
+ 
+
+ Kata kunci: Literasi Digital, AI untuk Bisnis, Penulisan Digital, Buku Digital, Jurnal Ilmiah, Publikasi Akademik, Generative AI, Etika Digital.
